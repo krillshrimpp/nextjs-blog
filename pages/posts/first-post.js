@@ -7,7 +7,8 @@ export default function FirstPost() {
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
-      <p1>Hi, my name is Lee Hoseop. </p1>
+      <p1>Hi, my name is Lee Hoseop. I'm a freshman in hanyang university. Why are we suddenly making a webpage? weren't we learning about algorithms?
+      </p1>
     </>
   );
 } 
