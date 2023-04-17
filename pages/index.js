@@ -8,11 +8,13 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.js"></script>
       </Head>
 
       <main>
       <h1 className="title">
         Read <Link href="/posts/first-post">this page!</Link>
+        
       </h1>
 
         <p className={styles.description}>
